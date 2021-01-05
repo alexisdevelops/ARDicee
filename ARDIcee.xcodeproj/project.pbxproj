@@ -100,9 +100,9 @@
 			isa = PBXGroup;
 			children = (
 				5E1EED3A25A4E03C006F894D /* AppDelegate.swift */,
-				5E1EED3C25A4E03C006F894D /* art.scnassets */,
 				5E1EED3E25A4E03C006F894D /* ViewController.swift */,
 				5E1EED4025A4E03C006F894D /* Main.storyboard */,
+				5E1EED3C25A4E03C006F894D /* art.scnassets */,
 				5E1EED4325A4E03D006F894D /* Assets.xcassets */,
 				5E1EED4525A4E03D006F894D /* LaunchScreen.storyboard */,
 				5E1EED4825A4E03D006F894D /* Info.plist */,
@@ -366,7 +366,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -421,7 +421,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -443,7 +443,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = awsalex.com.ARDIcee;
+				PRODUCT_BUNDLE_IDENTIFIER = awsalex.com.ARDIcee2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -462,7 +462,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = awsalex.com.ARDIcee;
+				PRODUCT_BUNDLE_IDENTIFIER = awsalex.com.ARDIcee2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
